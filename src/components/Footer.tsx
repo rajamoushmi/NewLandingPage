@@ -165,7 +165,7 @@ export const Footer = () => {
           <a
             rel="noreferrer noopener"
             target="_blank"
-            href="https://www.linkedin.com/company/gointelion/"
+            href="https://www.linkedin.com/in/raja-moushmi-166520255/"
             className="text-primary transition-all border-primary hover:border-b-2"
           >
             RajaMoushmi
