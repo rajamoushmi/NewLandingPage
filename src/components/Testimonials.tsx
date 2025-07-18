@@ -17,7 +17,7 @@ const testimonials: TestimonialProps[] = [
   {
     image: "https://img.freepik.com/free-photo/standard-quality-control-collage-concept_23-2149595847.jpg",
     name: "Managed Services",
-    comment: "Free up your internal resources to focus on the business by letting us handle day-to-day support services, management, and monitoring of your IT.",
+    comment: "Free up your internal resources to focus on the business by letting us handle day-to-day support services, and monitoring of your IT.",
   },
   {
     image: "https://www.keenesystems.com/hubfs/blog-images/bigstock-It-Consultant-Presenting-Tag-C-435713942.jpg",
