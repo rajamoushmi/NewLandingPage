@@ -35,7 +35,7 @@ const reviews: ReviewProps[] = [
   },
   {
     rating: 5.0,
-    review: "Their responsiveness is really great — they resolve issues promptly.",
+    review: "Their responsiveness is really great — they resolve issues promptly and usefull.",
     author: "Deputy Director, National Academy of Design",
   },
   {
