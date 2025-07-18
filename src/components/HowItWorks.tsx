@@ -1,11 +1,11 @@
 import { useEffect, useState, useRef } from "react";
 
 const partners = [
-  { name: "Intel", logo: "https://finolity.com/wp-content/uploads/2023/03/ND-ty6SkWNaiYy3I6E9J3lgFJJIeuHzzcdx74aHvaQ-9PFabsPmUhe_uKKqItjbtrcbw.png" },
-  { name: "Microsoft", logo: "https://finolity.com/wp-content/uploads/2023/03/kisspng-microsoft-certified-partner-microsoft-partner-netw-partner-5b13fff40de7b5.358475291528037364057.png" },
-  { name: "Lenovo", logo: "https://finolity.com/wp-content/uploads/2023/03/LenovoBP-POS-color.png" },
-  { name: "Cisco", logo: "https://finolity.com/wp-content/uploads/2023/03/5b7d7d3778a94.png" },
-  { name: "Dell", logo: "https://finolity.com/wp-content/uploads/2023/03/pngfind.com-registered-logo-png-2230159.png" },
+  { name: "Intel", logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIrYIL7CV1mRAa3RY_MYerOZ1iIXx2Bdiug&s" },
+  { name: "Microsoft", logo: "https://download.logo.wine/logo/Microsoft/Microsoft-Logo.wine.png" },
+  { name: "Lenovo", logo: "https://radiant.in/wp-content/uploads/2024/06/Lenovo-Logo-1.png" },
+  { name: "Cisco", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/800px-Cisco_logo_blue_2016.svg.png" },
+  { name: "Dell", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dell_Logo.svg/1200px-Dell_Logo.svg.png" },
 ];
 
 export const HowItWorks = () => {
@@ -42,7 +42,7 @@ export const HowItWorks = () => {
       <div className="relative w-80 h-80 flex items-center justify-center">
         {/* Central Logo (FCS) */}
         <div className="absolute w-28 h-28 rounded-full bg-white p-2 flex items-center justify-center shadow-lg transition-all duration-1000 ease-out" style={{ opacity: animate ? 1 : 0, transform: animate ? "scale(1)" : "scale(0.5)" }}>
-          <img src="https://finolity.com/wp-content/uploads/2025/01/ABP-NEWS-1.jpg" alt="FCS" className="w-full h-full object-contain" />
+          <img src="https://thumbs.dreamstime.com/b/business-conference-meeting-people-formalwear-discussing-something-sitting-together-round-table-discussion-106328971.jpg" alt="FCS" className="w-full h-full object-contain" />
         </div>
 
         {/* Surrounding Logos */}
