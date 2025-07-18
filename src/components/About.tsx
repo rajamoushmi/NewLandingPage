@@ -8,7 +8,7 @@ export const About = () => {
       <div className="relative w-full h-auto overflow-hidden rounded-3xl shadow-xl">
         {/* Background Image with Zoom Effect */}
         <motion.img
-          src="https://finolity.com/wp-content/uploads/2024/11/Untitled-design-2-2048x922.jpg"
+          src="https://www.shutterstock.com/image-photo/closeup-businessman-hand-typing-on-600nw-2393859393.jpg"
           alt="Company"
           className="w-full h-auto object-cover rounded-3xl"
           initial={{ scale: 1.2 }}
