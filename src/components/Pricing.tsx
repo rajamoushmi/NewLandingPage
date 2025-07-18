@@ -24,7 +24,7 @@ const eventList: EventProps[] = [
     description:
       "Explore advancements in AI and education, featuring industry experts and real-world applications.",
     buttonText: "Register Today",
-    imageUrl: "https://finolity.com/wp-content/uploads/2025/02/ai_event.jpg", // Add image URL here
+    imageUrl: "https://static.theprint.in/wp-content/uploads/2025/02/Illustration-Prajna-Ghosh-ThePrint-696x392.jpg?compress=true&quality=80&w=376&dpr=2.6", // Add image URL here
     benefitList: [
       { type: "location", text: "Mumbai" },
       { type: "date", text: "Saturday, March 29" },
@@ -37,7 +37,7 @@ const eventList: EventProps[] = [
     description:
       "Join discussions on sustainability and green technology, with insights from industry expert leaders.",
     buttonText: "Register Today",
-    imageUrl: "https://finolity.com/wp-content/uploads/2023/04/visuals-Y4qzW3AsvqI-unsplash.jpg", // Add image URL here
+    imageUrl: "https://www.hopwood.ac.uk/wp-content/uploads/2025/03/Green-Summit-Logo_FINAL.png", // Add image URL here
     benefitList: [
       { type: "location", text: "New Delhi" },
       { type: "date", text: "Sunday, September 252" },
@@ -49,7 +49,7 @@ const eventList: EventProps[] = [
     description:
       "Connect with industry leaders to explore collaborations and innovations in technology ecosystems.",
     buttonText: "Register Today",
-    imageUrl: "https://finolity.com/wp-content/uploads/2023/04/evangeline-shaw-BdV23FLkmxQ-unsplash.jpg", // Add image URL here
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZCNw49e30g4FeV2DhmPoW8bkEgBYLqXB3A&s", // Add image URL here
     benefitList: [
       { type: "location", text: "Bangalore" },
       { type: "date", text: "Sunday, September 14" },
